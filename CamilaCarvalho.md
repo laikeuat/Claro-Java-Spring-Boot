@@ -1,9 +1,11 @@
 # Camila Fernanda de Carvalho
 
+<img align="right" alt="girl with a object-oriented programming and java book" height="200" src = "https://i.pinimg.com/564x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg">
+
 Estudante de Engenharia de Software e entusiasta da programação, busco melhorar meu portfólio e expandir meu conhecimento da área da tecnologia.
 
 
-<img align="right" alt="girl with a object-oriented programming and java book" height="380" src = "https://i.pinimg.com/564x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg">
+
 
 ## Redes  Sociais
 
