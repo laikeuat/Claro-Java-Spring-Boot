@@ -17,17 +17,42 @@ Será anexado aqui todos os conteudos trabalhados no curso, assim como documento
 Adicionando ou Clonando um repositório:
 
 ```
-git init
+$ git init
 
 ```
 Inicia um repositório git diretamente do seu diretório
 
 ```
-git clone 'link.git'
+$ git clone 'link.git'
 
 ```
 Clona os arquivos de um repositório já existente para o diretório da máquina
 
+```
+$ git add 'arquivo.txt'
+```
+Adiciona um arquivo para o _commit_
+
+```
+$ git add .
+```
+Adiciona todos os arquivos do diretorio dentro do _commit_
+
+```
+$ git commit -m "atualizando a branch :P"
+```
+
+Cria uma mensagem de _commit_
+
+```
+$ git push
+```
+Posta os arquivos para o diretório **remoto**
+
+```
+$ git pull
+```
+Puxa informações do diretório **remoto** para o **local**
 
 |Nome do Resumo | Link |
 |---------------|------|
